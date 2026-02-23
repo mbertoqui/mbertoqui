@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá! 👋 Eu sou o Matheus
 
-<!--
-**mbertoqui/mbertoqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Júnior | JavaScript • Java • Python
 
-Here are some ideas to get you started:
+Atualmente estudando:
+- Desenvolvimento Full-Stack (Rocketseat)
+- Inteligência Artificial e Machine Learning (XPE)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+JavaScript | Java | Python | Node.js | SQL | Git
+
+## 📌 Projetos
+- Tô na Praia — Sistema de estoque (em desenvolvimento)
+- NFeVision — Visualizador de NF-e
